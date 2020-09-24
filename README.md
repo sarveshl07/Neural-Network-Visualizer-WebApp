@@ -1,6 +1,6 @@
 ## Random-Digit-Predictor
 
-A Streamlit based web application built to predict the given input image from mnist dataset and visualize both the inpout and output layers with the help of streamlit,accessed using keras functional api's.
+A Streamlit based web application built to predict the given input image from mnist dataset and visualize both the input and output layers with the help of streamlit,accessed using keras functional api's.
 
 
 ### Modules:
